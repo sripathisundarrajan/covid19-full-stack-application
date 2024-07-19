@@ -1,8 +1,8 @@
 # Coronavirus - (COVID-19) Full Stack Application
-The idea behind this application is to displays the statistics of Coronavirus COVID-19 around the world and the data are being collected from [Johns Hopkins University Center for Systems Science and Engineering JHU CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) and it updates the cases constantly on this website around the world. 
+The idea behind this application is to displays the statistics of Coronavirus COVID-19 around the world and the data are being collected from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data and it updates the cases constantly on this website around the world. 
 
 ## Technical Overview
-This is a full-stack application which runs react.js in front-end and node.js in the back-end and it parses the data from [JHU CSSE](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) and stored in MongoDB database.
+This is a full-stack application which runs react.js in front-end and node.js in the back-end and it parses the data from (https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) and stored in MongoDB database.
 
 And it uses Mapbox to populate the coordinates on the map using GeoJSON format.
 
@@ -53,11 +53,4 @@ mapbox://styles/hackbotone/ck8vt8vdj2fz91ilax6nwtins
 ### Note
 If you face any problem or have any suggestion on improving the code then feel free to raise an issue.
 
-### Youtube explanation
-[https://www.youtube.com/watch?v=dth5jfLDuus](https://www.youtube.com/watch?v=dth5jfLDuus)
 
-### Website Design & Developed by
-[Anshuman Pattnaik](https://www.linkedin.com/in/anshuman123/)
-
-### License
-This project is licensed under the [MIT License](LICENSE)
