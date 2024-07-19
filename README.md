@@ -12,7 +12,7 @@ And it uses Mapbox to populate the coordinates on the map using GeoJSON format.
 After git clone import the dummy statistics into your local MongoDB database, which will help you to start the project.
 
 ``````````````````````````
-git clone https://github.com/anshumanpattnaik/covid19-full-stack-application.git
+git clone https://github.com/sripathisundarrajan/covid19-full-stack-application.git
 
 cd covid19-full-stack-application
 
